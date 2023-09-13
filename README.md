@@ -1,4 +1,4 @@
-### Web Devoloper
+# Web Devoloper
 I'm passionate about making error-free websites. I have excellent problem-solving skills and the ability to work collaboratively with designers, project managers and clients. Last year I have made a lot of websites for my clients.
 
 - 🌱 I’m currently learning javaScript 
