@@ -16,6 +16,10 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/khubaibm039/khubaibm039/output/snake.svg" alt="Snake animation" />
+
+###
+
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
